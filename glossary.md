@@ -15,6 +15,7 @@ Write a paragraph explaining the term below, including 2-3 relevent links to mor
 * and open-source package manager that is used to manage diffrences projects in JavaScript
 * It helps you keep any packages undercontrol, but installing, updatining and deleting them
 * It's goal is focusing on speed, correctness and security.
+* [Yarn](https://yarnpkg.com/getting-started#:~:text=Yarn%20is%20an%20established%20open,manage%20dependencies%20in%20JavaScript%20projects.)
 
 ## NPM
 
