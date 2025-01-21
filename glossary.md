@@ -12,7 +12,9 @@ Write a paragraph explaining the term below, including 2-3 relevent links to mor
 ## JavaScript
 
 ## Yarn
-
+* and open-source package manager that is used to manage diffrences projects in JavaScript
+* It helps you keep any packages undercontrol, but installing, updatining and deleting them
+* It's goal is focusing on speed, correctness and security.
 
 ## NPM
 
